@@ -1,0 +1,37 @@
+{
+  "status": "done",
+  "assets": {
+    "js/main.js": {
+      "name": "js/main.js",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/js/main.js",
+      "publicPath": "http://localhost:8080/js/main.js"
+    },
+    "js/chunk-vendors.js": {
+      "name": "js/chunk-vendors.js",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/js/chunk-vendors.js",
+      "publicPath": "http://localhost:8080/js/chunk-vendors.js"
+    },
+    "favicon.ico": {
+      "name": "favicon.ico",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/favicon.ico",
+      "publicPath": "http://localhost:8080/favicon.ico"
+    },
+    "index.html": {
+      "name": "index.html",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/index.html",
+      "publicPath": "http://localhost:8080/index.html"
+    },
+    "main.html": {
+      "name": "main.html",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.html",
+      "publicPath": "http://localhost:8080/main.html"
+    }
+  },
+  "chunks": {
+    "main": [
+      "js/chunk-vendors.js",
+      "js/main.js"
+    ]
+  },
+  "publicPath": "http://localhost:8080/"
+}

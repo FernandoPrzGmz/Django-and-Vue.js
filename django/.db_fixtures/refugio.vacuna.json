@@ -1,0 +1,37 @@
+[
+    {
+        "pk": 1,
+        "model": "refugio.vacuna",
+        "fields": {
+            "nombre": "Vacuna contra parvovirus y moquillo"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "refugio.vacuna",
+        "fields": {
+            "nombre": "Vacuna Polivalente"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "refugio.vacuna",
+        "fields": {
+            "nombre": "Refuerzo de vacuna Polivalente"
+        }
+    },
+    {
+        "pk": 4,
+        "model": "refugio.vacuna",
+        "fields": {
+            "nombre": "Vacuna contra la rabia"
+        }
+    },
+    {
+        "pk": 5,
+        "model": "refugio.vacuna",
+        "fields": {
+            "nombre": "Refuerzo de vacuna contra la rabia"
+        }
+    }
+]

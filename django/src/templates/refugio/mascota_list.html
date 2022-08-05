@@ -1,0 +1,52 @@
+{% extends 'base.html' %}
+
+{% block title %}
+    Listado de Mascotas
+{% endblock %}
+
+{% block content %}
+    <h1>Listado de Mascotas</h1>
+
+    <div class="container">
+        <a href="{% url 'mascota_create' %}" type="button" class="btn btn-success">
+            Registrar nueva mascota
+        </a>
+
+        <div class="row">
+            {% for pet in object_list %}
+                <div class="col">
+                    <div class="card" style="width: 18rem; margin: 15px;">
+                        <img src="https://cdn2.thecatapi.com/images/7ce.jpg" alt="Te presentamos a '{{ pet.nombre }}'">
+                        <div class="card-body">
+                            <h5 class="card-title">{{ pet.nombre }}</h5>
+                            <p class="card-text">
+                                "{{ pet.nombre }}" es una mascota del sexo {{ pet.get_sexo_display }} que tiene una edad de
+                                {{ pet.edad }} años.
+                            </p>
+                            <p class="card-text">
+                                Rescatado el día {{ pet.fecha_rescate }}, por {{ pet.persona.nombre }} {{ pet.persona.apellidos }}.
+                            </p>
+                        </div>
+                        <div class="card-footer text-muted">
+                            Vacunas aplicadas:
+                            {% for vacuna in pet.vacunas.all %} {{ vacuna.nombre }} - {% empty %} Ninguna {% endfor %}
+                        </div>
+                        <div class="card-footer">
+                            <a href="{% url 'mascota_delete' pet.id %}" type="button" class="btn btn-outline-danger">
+                                Eliminar
+                            </a>
+                            <a href="{% url 'mascota_update' pet.id %}" type="button" class="btn btn-outline-primary">
+                                Editar
+                            </a>
+                            <a href="{% url 'mascota_detail' pet.id %}" type="button" class="btn btn-outline-secondary">
+                                Ver
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            {% empty %}
+                ¡Ups!... Parece que no hay nada aqui.
+            {% endfor %}
+        </div>
+    </div>
+{% endblock  %}

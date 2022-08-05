@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+
+{% block title %}
+    Mascota "{{ object.nombre }}"
+{% endblock %}
+
+{% block content %}
+    <h1>Mascota "{{ object.nombre }}"</h1>
+
+    <div class="container">
+        <div class="card" style="width: 18rem; margin: 15px;">
+            <img src="https://cdn2.thecatapi.com/images/7ce.jpg" alt="Te presentamos a '{{ object.nombre }}'">
+            <div class="card-body">
+                <h5 class="card-title">{{ object.nombre }}</h5>
+                <p class="card-text">
+                    "{{ object.nombre }}" es una mascota del sexo {{ object.get_sexo_display }} que tiene una edad de
+                    {{ object.edad }} años.
+                </p>
+                <p class="card-text">
+                    Rescatado el día {{ object.fecha_rescate }}, por {{ object.persona.nombre }} {{ object.persona.apellidos }}.
+                </p>
+            </div>
+            <div class="card-footer text-muted">
+                Vacunas aplicadas:
+                {% for vacuna in object.vacunas.all %} {{ vacuna.nombre }} - {% empty %} Ninguna {% endfor %}
+            </div>
+        </div>
+    </div>
+{% endblock  %}
