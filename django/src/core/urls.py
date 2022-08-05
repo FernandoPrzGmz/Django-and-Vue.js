@@ -25,7 +25,7 @@ from drf_spectacular.views import SpectacularAPIView, SpectacularRedocView, Spec
 urlpatterns = [
     path('admin/', admin.site.urls),
 
-    path('__debug__/', include('debug_toolbar.urls')),
+    # path('__debug__/', include('debug_toolbar.urls')),
     
     # Documentación API REST
     path('api/schema/', SpectacularAPIView.as_view(), name='schema'),

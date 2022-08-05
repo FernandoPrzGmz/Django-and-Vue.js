@@ -21,17 +21,280 @@
       "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/index.html",
       "publicPath": "http://localhost:8080/index.html"
     },
+    "main.b8924aa888887754.hot-update.js": {
+      "name": "main.b8924aa888887754.hot-update.js",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.b8924aa888887754.hot-update.js",
+      "publicPath": "http://localhost:8080/main.b8924aa888887754.hot-update.js"
+    },
+    "main.b8924aa888887754.hot-update.json": {
+      "name": "main.b8924aa888887754.hot-update.json",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.b8924aa888887754.hot-update.json",
+      "publicPath": "http://localhost:8080/main.b8924aa888887754.hot-update.json"
+    },
     "main.html": {
       "name": "main.html",
       "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.html",
       "publicPath": "http://localhost:8080/main.html"
+    },
+    "main.77010a455da32a62.hot-update.js": {
+      "name": "main.77010a455da32a62.hot-update.js",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.77010a455da32a62.hot-update.js",
+      "publicPath": "http://localhost:8080/main.77010a455da32a62.hot-update.js"
+    },
+    "main.77010a455da32a62.hot-update.json": {
+      "name": "main.77010a455da32a62.hot-update.json",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.77010a455da32a62.hot-update.json",
+      "publicPath": "http://localhost:8080/main.77010a455da32a62.hot-update.json"
+    },
+    "main.a8f8573d1134535d.hot-update.js": {
+      "name": "main.a8f8573d1134535d.hot-update.js",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.a8f8573d1134535d.hot-update.js",
+      "publicPath": "http://localhost:8080/main.a8f8573d1134535d.hot-update.js"
+    },
+    "main.a8f8573d1134535d.hot-update.json": {
+      "name": "main.a8f8573d1134535d.hot-update.json",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.a8f8573d1134535d.hot-update.json",
+      "publicPath": "http://localhost:8080/main.a8f8573d1134535d.hot-update.json"
+    },
+    "main.386a56440e5825de.hot-update.js": {
+      "name": "main.386a56440e5825de.hot-update.js",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.386a56440e5825de.hot-update.js",
+      "publicPath": "http://localhost:8080/main.386a56440e5825de.hot-update.js"
+    },
+    "main.386a56440e5825de.hot-update.json": {
+      "name": "main.386a56440e5825de.hot-update.json",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.386a56440e5825de.hot-update.json",
+      "publicPath": "http://localhost:8080/main.386a56440e5825de.hot-update.json"
+    },
+    "main.cf1aa8524f15ce24.hot-update.js": {
+      "name": "main.cf1aa8524f15ce24.hot-update.js",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.cf1aa8524f15ce24.hot-update.js",
+      "publicPath": "http://localhost:8080/main.cf1aa8524f15ce24.hot-update.js"
+    },
+    "main.cf1aa8524f15ce24.hot-update.json": {
+      "name": "main.cf1aa8524f15ce24.hot-update.json",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.cf1aa8524f15ce24.hot-update.json",
+      "publicPath": "http://localhost:8080/main.cf1aa8524f15ce24.hot-update.json"
+    },
+    "main.4eeb282b75ccffa9.hot-update.js": {
+      "name": "main.4eeb282b75ccffa9.hot-update.js",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.4eeb282b75ccffa9.hot-update.js",
+      "publicPath": "http://localhost:8080/main.4eeb282b75ccffa9.hot-update.js"
+    },
+    "main.4eeb282b75ccffa9.hot-update.json": {
+      "name": "main.4eeb282b75ccffa9.hot-update.json",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.4eeb282b75ccffa9.hot-update.json",
+      "publicPath": "http://localhost:8080/main.4eeb282b75ccffa9.hot-update.json"
+    },
+    "main.5b5489d3ff2bbe61.hot-update.js": {
+      "name": "main.5b5489d3ff2bbe61.hot-update.js",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.5b5489d3ff2bbe61.hot-update.js",
+      "publicPath": "http://localhost:8080/main.5b5489d3ff2bbe61.hot-update.js"
+    },
+    "main.5b5489d3ff2bbe61.hot-update.json": {
+      "name": "main.5b5489d3ff2bbe61.hot-update.json",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.5b5489d3ff2bbe61.hot-update.json",
+      "publicPath": "http://localhost:8080/main.5b5489d3ff2bbe61.hot-update.json"
+    },
+    "main.afd5c610cde0ebda.hot-update.js": {
+      "name": "main.afd5c610cde0ebda.hot-update.js",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.afd5c610cde0ebda.hot-update.js",
+      "publicPath": "http://localhost:8080/main.afd5c610cde0ebda.hot-update.js"
+    },
+    "main.afd5c610cde0ebda.hot-update.json": {
+      "name": "main.afd5c610cde0ebda.hot-update.json",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.afd5c610cde0ebda.hot-update.json",
+      "publicPath": "http://localhost:8080/main.afd5c610cde0ebda.hot-update.json"
+    },
+    "main.0b904a14fef8f387.hot-update.js": {
+      "name": "main.0b904a14fef8f387.hot-update.js",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.0b904a14fef8f387.hot-update.js",
+      "publicPath": "http://localhost:8080/main.0b904a14fef8f387.hot-update.js"
+    },
+    "main.0b904a14fef8f387.hot-update.json": {
+      "name": "main.0b904a14fef8f387.hot-update.json",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.0b904a14fef8f387.hot-update.json",
+      "publicPath": "http://localhost:8080/main.0b904a14fef8f387.hot-update.json"
+    },
+    "main.3322751a8e352e68.hot-update.js": {
+      "name": "main.3322751a8e352e68.hot-update.js",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.3322751a8e352e68.hot-update.js",
+      "publicPath": "http://localhost:8080/main.3322751a8e352e68.hot-update.js"
+    },
+    "main.3322751a8e352e68.hot-update.json": {
+      "name": "main.3322751a8e352e68.hot-update.json",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.3322751a8e352e68.hot-update.json",
+      "publicPath": "http://localhost:8080/main.3322751a8e352e68.hot-update.json"
+    },
+    "main.fdf5eb3b433a05b0.hot-update.js": {
+      "name": "main.fdf5eb3b433a05b0.hot-update.js",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.fdf5eb3b433a05b0.hot-update.js",
+      "publicPath": "http://localhost:8080/main.fdf5eb3b433a05b0.hot-update.js"
+    },
+    "main.fdf5eb3b433a05b0.hot-update.json": {
+      "name": "main.fdf5eb3b433a05b0.hot-update.json",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.fdf5eb3b433a05b0.hot-update.json",
+      "publicPath": "http://localhost:8080/main.fdf5eb3b433a05b0.hot-update.json"
+    },
+    "main.16971778b02a1b15.hot-update.js": {
+      "name": "main.16971778b02a1b15.hot-update.js",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.16971778b02a1b15.hot-update.js",
+      "publicPath": "http://localhost:8080/main.16971778b02a1b15.hot-update.js"
+    },
+    "main.16971778b02a1b15.hot-update.json": {
+      "name": "main.16971778b02a1b15.hot-update.json",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.16971778b02a1b15.hot-update.json",
+      "publicPath": "http://localhost:8080/main.16971778b02a1b15.hot-update.json"
+    },
+    "main.28c9af5e23d1c6d2.hot-update.js": {
+      "name": "main.28c9af5e23d1c6d2.hot-update.js",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.28c9af5e23d1c6d2.hot-update.js",
+      "publicPath": "http://localhost:8080/main.28c9af5e23d1c6d2.hot-update.js"
+    },
+    "main.28c9af5e23d1c6d2.hot-update.json": {
+      "name": "main.28c9af5e23d1c6d2.hot-update.json",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.28c9af5e23d1c6d2.hot-update.json",
+      "publicPath": "http://localhost:8080/main.28c9af5e23d1c6d2.hot-update.json"
+    },
+    "main.aadfb31c2907196c.hot-update.js": {
+      "name": "main.aadfb31c2907196c.hot-update.js",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.aadfb31c2907196c.hot-update.js",
+      "publicPath": "http://localhost:8080/main.aadfb31c2907196c.hot-update.js"
+    },
+    "main.aadfb31c2907196c.hot-update.json": {
+      "name": "main.aadfb31c2907196c.hot-update.json",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.aadfb31c2907196c.hot-update.json",
+      "publicPath": "http://localhost:8080/main.aadfb31c2907196c.hot-update.json"
+    },
+    "main.9b9287f701321a97.hot-update.js": {
+      "name": "main.9b9287f701321a97.hot-update.js",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.9b9287f701321a97.hot-update.js",
+      "publicPath": "http://localhost:8080/main.9b9287f701321a97.hot-update.js"
+    },
+    "main.9b9287f701321a97.hot-update.json": {
+      "name": "main.9b9287f701321a97.hot-update.json",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.9b9287f701321a97.hot-update.json",
+      "publicPath": "http://localhost:8080/main.9b9287f701321a97.hot-update.json"
+    },
+    "main.5d7eea2aba2a1c94.hot-update.js": {
+      "name": "main.5d7eea2aba2a1c94.hot-update.js",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.5d7eea2aba2a1c94.hot-update.js",
+      "publicPath": "http://localhost:8080/main.5d7eea2aba2a1c94.hot-update.js"
+    },
+    "main.5d7eea2aba2a1c94.hot-update.json": {
+      "name": "main.5d7eea2aba2a1c94.hot-update.json",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.5d7eea2aba2a1c94.hot-update.json",
+      "publicPath": "http://localhost:8080/main.5d7eea2aba2a1c94.hot-update.json"
+    },
+    "main.1ecbc344920d7b7a.hot-update.js": {
+      "name": "main.1ecbc344920d7b7a.hot-update.js",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.1ecbc344920d7b7a.hot-update.js",
+      "publicPath": "http://localhost:8080/main.1ecbc344920d7b7a.hot-update.js"
+    },
+    "main.1ecbc344920d7b7a.hot-update.json": {
+      "name": "main.1ecbc344920d7b7a.hot-update.json",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.1ecbc344920d7b7a.hot-update.json",
+      "publicPath": "http://localhost:8080/main.1ecbc344920d7b7a.hot-update.json"
+    },
+    "main.549b20d8569fdf2e.hot-update.js": {
+      "name": "main.549b20d8569fdf2e.hot-update.js",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.549b20d8569fdf2e.hot-update.js",
+      "publicPath": "http://localhost:8080/main.549b20d8569fdf2e.hot-update.js"
+    },
+    "main.549b20d8569fdf2e.hot-update.json": {
+      "name": "main.549b20d8569fdf2e.hot-update.json",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.549b20d8569fdf2e.hot-update.json",
+      "publicPath": "http://localhost:8080/main.549b20d8569fdf2e.hot-update.json"
+    },
+    "main.164cfa842d518da5.hot-update.js": {
+      "name": "main.164cfa842d518da5.hot-update.js",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.164cfa842d518da5.hot-update.js",
+      "publicPath": "http://localhost:8080/main.164cfa842d518da5.hot-update.js"
+    },
+    "main.164cfa842d518da5.hot-update.json": {
+      "name": "main.164cfa842d518da5.hot-update.json",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.164cfa842d518da5.hot-update.json",
+      "publicPath": "http://localhost:8080/main.164cfa842d518da5.hot-update.json"
+    },
+    "main.13811354802d3ca2.hot-update.js": {
+      "name": "main.13811354802d3ca2.hot-update.js",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.13811354802d3ca2.hot-update.js",
+      "publicPath": "http://localhost:8080/main.13811354802d3ca2.hot-update.js"
+    },
+    "main.13811354802d3ca2.hot-update.json": {
+      "name": "main.13811354802d3ca2.hot-update.json",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.13811354802d3ca2.hot-update.json",
+      "publicPath": "http://localhost:8080/main.13811354802d3ca2.hot-update.json"
+    },
+    "main.53381a9cac4fcd6b.hot-update.js": {
+      "name": "main.53381a9cac4fcd6b.hot-update.js",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.53381a9cac4fcd6b.hot-update.js",
+      "publicPath": "http://localhost:8080/main.53381a9cac4fcd6b.hot-update.js"
+    },
+    "main.53381a9cac4fcd6b.hot-update.json": {
+      "name": "main.53381a9cac4fcd6b.hot-update.json",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.53381a9cac4fcd6b.hot-update.json",
+      "publicPath": "http://localhost:8080/main.53381a9cac4fcd6b.hot-update.json"
+    },
+    "main.6b972b2a917753e7.hot-update.js": {
+      "name": "main.6b972b2a917753e7.hot-update.js",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.6b972b2a917753e7.hot-update.js",
+      "publicPath": "http://localhost:8080/main.6b972b2a917753e7.hot-update.js"
+    },
+    "main.6b972b2a917753e7.hot-update.json": {
+      "name": "main.6b972b2a917753e7.hot-update.json",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.6b972b2a917753e7.hot-update.json",
+      "publicPath": "http://localhost:8080/main.6b972b2a917753e7.hot-update.json"
+    },
+    "main.40c42429ea514129.hot-update.js": {
+      "name": "main.40c42429ea514129.hot-update.js",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.40c42429ea514129.hot-update.js",
+      "publicPath": "http://localhost:8080/main.40c42429ea514129.hot-update.js"
+    },
+    "main.40c42429ea514129.hot-update.json": {
+      "name": "main.40c42429ea514129.hot-update.json",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.40c42429ea514129.hot-update.json",
+      "publicPath": "http://localhost:8080/main.40c42429ea514129.hot-update.json"
+    },
+    "main.831fe1c8aeec8943.hot-update.js": {
+      "name": "main.831fe1c8aeec8943.hot-update.js",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.831fe1c8aeec8943.hot-update.js",
+      "publicPath": "http://localhost:8080/main.831fe1c8aeec8943.hot-update.js"
+    },
+    "main.831fe1c8aeec8943.hot-update.json": {
+      "name": "main.831fe1c8aeec8943.hot-update.json",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.831fe1c8aeec8943.hot-update.json",
+      "publicPath": "http://localhost:8080/main.831fe1c8aeec8943.hot-update.json"
+    },
+    "main.e0ff04390f3023bd.hot-update.js": {
+      "name": "main.e0ff04390f3023bd.hot-update.js",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.e0ff04390f3023bd.hot-update.js",
+      "publicPath": "http://localhost:8080/main.e0ff04390f3023bd.hot-update.js"
+    },
+    "main.e0ff04390f3023bd.hot-update.json": {
+      "name": "main.e0ff04390f3023bd.hot-update.json",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.e0ff04390f3023bd.hot-update.json",
+      "publicPath": "http://localhost:8080/main.e0ff04390f3023bd.hot-update.json"
+    },
+    "main.8411c3fd12711992.hot-update.js": {
+      "name": "main.8411c3fd12711992.hot-update.js",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.8411c3fd12711992.hot-update.js",
+      "publicPath": "http://localhost:8080/main.8411c3fd12711992.hot-update.js"
+    },
+    "main.8411c3fd12711992.hot-update.json": {
+      "name": "main.8411c3fd12711992.hot-update.json",
+      "path": "/home/fernando/Documentos/Django-and-Vue.js/django/src/static/vue/main.8411c3fd12711992.hot-update.json",
+      "publicPath": "http://localhost:8080/main.8411c3fd12711992.hot-update.json"
     }
   },
   "chunks": {
     "main": [
       "js/chunk-vendors.js",
-      "js/main.js"
+      "js/main.js",
+      "main.8411c3fd12711992.hot-update.js"
     ]
   },
-  "publicPath": "http://localhost:8080/"
+  "publicPath": "http://localhost:8080/",
+  "error": "ModuleError",
+  "message": "Module Error (from ./node_modules/vue-loader/dist/templateLoader.js):\n\nVueCompilerError: v-else/v-else-if has no adjacent v-if or v-else-if.\nat /home/fernando/Documentos/Django-and-Vue.js/vue/src/App.vue:26:5\n24 |          />\n25 |        </div>\n26 |      <div v-else>\n   |      ^^^^^^^^^^^^\n27 |        ¡Ups!... Parece que no hay nada aqui.\n   |  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n28 |      </div>\n   |  ^^^^^^^^^^\n"
 }
